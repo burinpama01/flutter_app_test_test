@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "153567284961",
+    "firebase_url": "https://ssbv1-9ef7f.firebaseio.com",
+    "project_id": "ssbv1-9ef7f",
+    "storage_bucket": "ssbv1-9ef7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153567284961:android:ca563af3bdadbb902ff1a0",
+        "android_client_info": {
+          "package_name": "com.shuttlestudentbusdemo.ssb_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153567284961-m8nk3v0ed4ksj0q2bsnualtm2b37apia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7iYQ20p1DQB3R0hDjoY1jeKaPmgdFJYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153567284961-m8nk3v0ed4ksj0q2bsnualtm2b37apia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153567284961:android:c5bbec54511cce372ff1a0",
+        "android_client_info": {
+          "package_name": "com.shuttlestudentbusdemo.ssb_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153567284961-m8nk3v0ed4ksj0q2bsnualtm2b37apia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7iYQ20p1DQB3R0hDjoY1jeKaPmgdFJYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153567284961-m8nk3v0ed4ksj0q2bsnualtm2b37apia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
